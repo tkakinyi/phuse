@@ -1,5 +1,5 @@
 # ******************************************************************************
-#  Program/Macro:  umchklog.R
+#  Program/Macro:  usrchklog.R
 #  Lang/Vers:      R/4.2.2
 #  Author:         Teckla Akinyi
 #  Date:           Jan 2023
